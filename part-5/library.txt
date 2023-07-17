@@ -1,0 +1,12 @@
+The Old Man and The Sea, Ernest Hemingway, 1952, 3.71, 127
+And then There Were None, Agatha Christie, 1939, 4.22, 272
+The Great Gatsby, F. Scott Fitzgerald, 1925, 1.99, 208
+Frankenstein, Mary Shelley, 1818, 3.77, 280
+1984, George Orwell, 1949, 4.11, 328
+Fifty Shades of Grey, E.L James, 2011, 0.85, 514
+Twilight, Stephanie Meyer, 2005, 3.03, 498
+The Hunger Games, Suzanne Collins, 2008, 4.32, 374
+Harry Potter and the Philosopher's Stone, J.K Rowling, 1997, 4.88, 223
+The Fellowship of the Ring, J.R.R Tolkien, 1954, 3.84, 423
+Charlie and the Choclate Factory, Roald Dahl, 1964, 3.22, 161
+Lord of the Flies, William Golding, 1954, 4.04, 224
